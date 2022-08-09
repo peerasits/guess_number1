@@ -13,7 +13,7 @@ class Game{
   }
 
   printAnswer(){
-    print("คำตอบคือ $answer");
+    //print("คำตอบคือ $answer");
   }
 
   int doGuess(var num){
